@@ -1,0 +1,180 @@
+{
+  "line_master": [
+    [
+      "L008",
+      "Line 5",
+      "Assembly",
+      "Active"
+    ],
+    [
+      "L009",
+      "Line 7",
+      "Assembly",
+      "Active"
+    ]
+  ],
+  "station_master": [
+    [
+      "Line 5",
+      "ST-01",
+      "IC Stud Assembly",
+      "Assembly"
+    ],
+    [
+      "Line 5",
+      "ST-02",
+      "Valve Set Assembly",
+      "Assembly"
+    ],
+    [
+      "Line 5",
+      "ST-03",
+      "Needle Lift Setting",
+      "Setting"
+    ],
+    [
+      "Line 5",
+      "ST-04",
+      "Magnet Nut Screwing",
+      "Fastening"
+    ],
+    [
+      "Line 5",
+      "ST-05",
+      "RLS Setting",
+      "Setting"
+    ],
+    [
+      "Line 5",
+      "ST-06",
+      "Leakage Testing",
+      "Testing"
+    ],
+    [
+      "Line 7",
+      "ST-01",
+      "IC Stud Assembly",
+      "Assembly"
+    ],
+    [
+      "Line 7",
+      "ST-02",
+      "Valve Set Assembly",
+      "Assembly"
+    ],
+    [
+      "Line 7",
+      "ST-03",
+      "Needle Lift Setting",
+      "Setting"
+    ],
+    [
+      "Line 7",
+      "ST-04",
+      "Magnet Nut Screwing",
+      "Fastening"
+    ],
+    [
+      "Line 7",
+      "ST-05",
+      "RLS Setting",
+      "Setting"
+    ],
+    [
+      "Line 7",
+      "ST-06",
+      "Leakage Testing",
+      "Testing"
+    ]
+  ],
+  "checklist_master": [
+    [
+      "CL-021-L5",
+      "Line 5",
+      "ST-01",
+      "IC Stud Assembly",
+      "IC stud torque value within specification",
+      "Torque: 4.5 \u00b1 0.5 Nm as per CP-L2-01",
+      "Process",
+      "High",
+      "Y"
+    ],
+    [
+      "CL-022-L5",
+      "Line 5",
+      "ST-02",
+      "Valve Set Assembly",
+      "Valve seat contact pattern checked",
+      "360\u00b0 uniform contact per WI-L2-02A; photographic record taken",
+      "Quality",
+      "Critical",
+      "Y"
+    ],
+    [
+      "CL-023-L5",
+      "Line 5",
+      "ST-03",
+      "Needle Lift Setting",
+      "Needle lift value set as per calibration standard",
+      "Lift: 0.28 \u00b1 0.02 mm; measured and recorded in shift log",
+      "Calibration",
+      "Critical",
+      "Y"
+    ],
+    [
+      "CL-024-L5",
+      "Line 5",
+      "ST-06",
+      "Leakage Testing",
+      "Leakage test pressure applied as per specification",
+      "Test pressure: 350 bar; 30-second hold; zero leakage",
+      "Quality",
+      "Critical",
+      "Y"
+    ],
+    [
+      "CL-021-L7",
+      "Line 7",
+      "ST-01",
+      "IC Stud Assembly",
+      "IC stud torque value within specification",
+      "Torque: 4.5 \u00b1 0.5 Nm as per CP-L2-01",
+      "Process",
+      "High",
+      "Y"
+    ],
+    [
+      "CL-022-L7",
+      "Line 7",
+      "ST-02",
+      "Valve Set Assembly",
+      "Valve seat contact pattern checked",
+      "360\u00b0 uniform contact per WI-L2-02A; photographic record taken",
+      "Quality",
+      "Critical",
+      "Y"
+    ],
+    [
+      "CL-023-L7",
+      "Line 7",
+      "ST-03",
+      "Needle Lift Setting",
+      "Needle lift value set as per calibration standard",
+      "Lift: 0.28 \u00b1 0.02 mm; measured and recorded in shift log",
+      "Calibration",
+      "Critical",
+      "Y"
+    ],
+    [
+      "CL-024-L7",
+      "Line 7",
+      "ST-06",
+      "Leakage Testing",
+      "Leakage test pressure applied as per specification",
+      "Test pressure: 350 bar; 30-second hold; zero leakage",
+      "Quality",
+      "Critical",
+      "Y"
+    ]
+  ]
+}
